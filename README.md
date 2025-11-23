@@ -1,6 +1,6 @@
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/eugenschindler/test-sprinkler-system-agiledev-2025)
+[![Open in Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?repo=eugenschindler/test-sprinkler-system-agiledev-2025)
 
-In GitPod, select VSCode as IDE and Standard resources (up to 4 cores, 8 GB RAM, 30 GB storage).
+In Codespaces, select VSCode as IDE and Standard resources (up to 4 cores, 8 GB RAM, 30 GB storage).
 
 The application (main.py entrypoint) is immediately run as part of starting the workspace. You can from there try the following:
 
