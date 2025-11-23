@@ -1,0 +1,2 @@
+# example dependency: Linter for Python code quality (optional but useful)
+pylint
