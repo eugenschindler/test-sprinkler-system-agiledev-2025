@@ -1,8 +1,10 @@
 [![Open in Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?repo=eugenschindler/test-sprinkler-system-agiledev-2025)
 
-In Codespaces, select VSCode as IDE and Standard resources (up to 4 cores, 8 GB RAM, 30 GB storage).
+In Codespaces, select 2 cores.
 
-The application (main.py entrypoint) is immediately run as part of starting the workspace. You can from there try the following:
+Once the project is setup and build automatically, you can run the application by typing in the terminal: `python main.py`
+
+You can from there try the following:
 
 1. Go through the turns of the simulation (type in values until you choose `y` when asked to stop the simulation)
 2. Preview the generated HTML report:
